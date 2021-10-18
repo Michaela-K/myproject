@@ -3,9 +3,6 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 Things you may want to cover:
-
-This line wil be in my-first-kebab branch
-
 * Ruby
 
 * System dependencies
